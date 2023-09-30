@@ -1,0 +1,24 @@
+
+.center{
+    margin: 0 auto;
+}
+h1{
+    font-size: 50px;
+    color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.input-fill-api{
+
+    width: 400px ;
+    font-size: 30px;
+
+    
+    background-color: rgb(197, 219, 221);
+}
+.button-api {
+
+    width: 120px ;
+    font-size: 30px;
+    background-color:  rgb(24, 177, 129);
+    border-radius: 20px;
+}

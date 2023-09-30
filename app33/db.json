@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "username": "Mishu Jamod",
+      "email": "Mishu@gmail.com",
+      "password": "123",
+      "role": 1,
+      "id": 1
+    },
+    {
+      "username": "Parul Jamod ",
+      "email": "Parul@gmail.com",
+      "password": "456",
+      "role": 2,
+      "id": 2
+    },
+    {
+      "username": "Karan Patel",
+      "email": "Karan@gmail.com",
+      "password": "789",
+      "role": 2,
+      "id": 3
+    },
+    {
+      "username": "Monty Panchal ",
+      "email": "monty@gmail.com",
+      "password": "9898",
+      "role": 2,
+      "id": 4
+    },
+    {
+      "username": "Aarav Jamod",
+      "email": "aarav@gmail.com",
+      "password": "789",
+      "role": 2,
+      "id": 5
+    }
+  ]
+}

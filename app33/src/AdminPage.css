@@ -1,0 +1,30 @@
+.table{
+    border: 5px solid black;
+    
+}
+.font{
+ font-size: 20px;
+}
+td{
+    border: 5px solid black;
+    font-size: 20px;
+    font-weight: bolder;
+}
+th{
+    border: 5px solid black;
+    font-size: 25px;
+    font-weight: bolder;
+    text-transform:uppercase;
+}
+h1{
+    color: blueviolet;
+    font-size: 50px;
+}
+button{
+    background-color: aquamarine;
+    color: blue;
+    border-radius: 10px;
+    border: solid 2px ;
+    padding: 5px;
+    font-size: 20px;
+}

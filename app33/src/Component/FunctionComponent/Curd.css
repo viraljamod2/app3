@@ -1,0 +1,22 @@
+.input-fill{
+
+    width: 400px ;
+    font-size: 30px;
+    background-color: rgb(197, 219, 221);
+}
+.button {
+
+    width: 120px ;
+    font-size: 30px;
+
+    background-color:  rgb(24, 177, 129);
+}
+
+.Delete{
+    background-color: red;
+    width: 100px;
+}
+.Edit{
+    background-color: green;
+    width: 100px;
+}
